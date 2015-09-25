@@ -58,7 +58,7 @@ Create npm configuration. There are at least two options you can choose from:
 
 Run NPM init 
 
-*NB to get to command line, try out [Open Command Line extension](http://bit.ly/1L0YHZh]) by Mads Kristenssen. Loads of options, ability to execute different shells etc.*
+*NB to get to command line, try out [Open Command Line extension](http://bit.ly/1L0YHZh]) by Mads Kristensen. Loads of options, ability to execute different shells etc.*
 
 ###Option 2###
 
