@@ -1,0 +1,11 @@
+{
+  "name": "AspNetStripped",
+  "version": "0.0.0",
+  "description": "ASP.Net (MVC) 4.6 / vs2015 project with alt client side package management.",  
+  "author": "Jukka Arola",
+  "license": "MIT",
+	"devDependencies": {
+    "bower": "1.4.1"
+	}    
+}
+ 
